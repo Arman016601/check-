@@ -1,0 +1,54 @@
+
+
+
+.erku{
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+    font-size: 100px;
+}
+body{
+    background-color: rgba(7, 7, 7, 0.877);
+}
+.ereq{
+    color: white;
+}
+.chors{
+    color: white;
+    margin-left:90%;
+  
+   padding: none;
+}
+
+.vec{
+    display: flex;
+    gap: 10px;
+}
+
+.yot{
+ width: max-content;
+ display: flex;
+ align-items: center;
+ padding: 14px;
+ border-radius: 28px;
+ background-color: rgba(255, 255, 255, 0.748);
+ display: inline-block;
+margin-left: 50%;
+transform: translate(-50%)
+;
+}
+.inn{
+    font-size: 16px;
+    font-family: 'lexend' sams-sarif;
+    color: #333333;
+    outline: none;
+    border: none;
+    background: transparent;
+    width: 300px;
+    
+}
+.search-input::placeholder{
+    color: black
+
+
+}
